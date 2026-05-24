@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class_num1, .class_num3, .class_num5{
+    background-color: pink;
+    font-family: Verdana,DejaVu Sans,sans-serif;
+}
+
+#id_num2{
+    color: blue;
+    font-size: 36px;
+}
+
+.class_num3{
+    font-size: 24px;
+}
+
+#id_num4{
+    background-color: rgb(149, 194, 149);
+    font-size: 24px;
+    font-weight: bold;
+}
